@@ -1,0 +1,168 @@
+{
+  "users": [
+    {
+      "_id": "751d3506d576dad9117a1a28",
+      "name": "Test Explorer Updated",
+      "email": "tester_1793269242739@eventsphere.com",
+      "password": "$2a$10$Juqd02TNiGS0aDJWywp6FuMMV7XtfFhb1YYHtgXkXGfqc1cXvloWq",
+      "phone": "999-888-7777",
+      "createdAt": "2026-10-29T10:20:42.871Z"
+    },
+    {
+      "_id": "7862807b43c171b7268d2421",
+      "name": "Tanmay chawda",
+      "email": "tanmaychawda40@gmail.com",
+      "password": "$2a$10$u2JPfVzs7L6VuL0oh7I5Y.HkVgqSj.8ch459gpsBMXR5pFjRGcNZK",
+      "phone": "+919343970746",
+      "createdAt": "2026-10-29T10:23:27.344Z"
+    },
+    {
+      "_id": "02b9393e9c30e9768dd4f8e4",
+      "name": "rtyu",
+      "email": "rudr@mil.com",
+      "password": "$2a$10$DtgBrrNFDOnZt9tmnk5WsuF6MkFzFMMK/u2XpfP9yBp70wVILI4DC",
+      "phone": "",
+      "createdAt": "2026-11-02T19:09:49.542Z"
+    }
+  ],
+  "events": [
+    {
+      "_id": "c68bb89737f9a8c95253a72a",
+      "title": "Global AI & Web3 Hackathon 2026",
+      "category": "Tech",
+      "description": "Join 500+ developers, designers, and innovators building next-generation AI and decentralized apps. 36 hours of non-stop hacking, mentoring from industry leaders, free food, and $50,000 in prizes! Teams will receive cloud credits and direct access to top tech recruiters.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+      "date": "2026-11-15",
+      "time": "09:00 AM",
+      "venue": "Metropolis Tech Park, Hall 4, San Francisco, CA",
+      "organizer": "DevSphere Innovation Labs",
+      "totalSeats": 250,
+      "seatsLeft": 42,
+      "price": 0,
+      "createdAt": "2026-10-29T10:09:46.800Z"
+    },
+    {
+      "_id": "9398ffa423f9ec5c28c62011",
+      "title": "Neon Beats Indie Music Fest",
+      "category": "Cultural",
+      "description": "An unforgettable evening of live acoustic, synthwave, and indie rock under the stars. Featuring top regional breakthrough bands, food trucks, light art installations, and curated artisan stalls.",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+      "date": "2026-11-20",
+      "time": "06:30 PM",
+      "venue": "Riverfront Amphitheater, Austin, TX",
+      "organizer": "Pulse Live Entertainment",
+      "totalSeats": 500,
+      "seatsLeft": 87,
+      "price": 25,
+      "createdAt": "2026-10-29T10:09:46.801Z"
+    },
+    {
+      "_id": "1eceb8ffb83b48a73ef0119a",
+      "title": "Autonomous Robotics & ROS Workshop",
+      "category": "Workshops",
+      "description": "Hands-on masterclass in building and programming autonomous mobile robots. Learn lidar mapping, obstacle avoidance, ROS 2 pipelines, and computer vision with physical hardware provided during the lab.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "date": "2026-11-22",
+      "time": "10:00 AM",
+      "venue": "Apex Innovation Center, Lab 3B, Boston, MA",
+      "organizer": "RoboTech Institute",
+      "totalSeats": 40,
+      "seatsLeft": 6,
+      "price": 49,
+      "createdAt": "2026-10-29T10:09:46.801Z"
+    },
+    {
+      "_id": "0a2ab2c1bd271b955977ea08",
+      "title": "Founder's Circle Startup Meetup",
+      "category": "Tech",
+      "description": "Network with seed-stage and Series A founders, venture capitalists, and product leaders. Keynote discussions on AI product-market fit, fundraising dynamics in 2026, and high-growth hiring.",
+      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=1200&q=80",
+      "date": "2026-11-25",
+      "time": "05:00 PM",
+      "venue": "The Canopy Coworking Hub, New York, NY",
+      "organizer": "VentureCraft Community",
+      "totalSeats": 120,
+      "seatsLeft": 19,
+      "price": 0,
+      "createdAt": "2026-10-29T10:09:46.801Z"
+    },
+    {
+      "_id": "3d591a6b0b2c0568035cbacb",
+      "title": "Golden Hour Urban Photography Walk",
+      "category": "Cultural",
+      "description": "Explore historic streets and architectural gems with professional National Geographic contributor Elena Rostova. Master low-light composition, street portraiture, and narrative storytelling.",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+      "date": "2026-11-28",
+      "time": "04:30 PM",
+      "venue": "Old Town Heritage Square, Seattle, WA",
+      "organizer": "Aperture Guild",
+      "totalSeats": 30,
+      "seatsLeft": 4,
+      "price": 15,
+      "createdAt": "2026-10-29T10:09:46.801Z"
+    },
+    {
+      "_id": "d7471a471895ee457cc408fa",
+      "title": "Mindful Sunrise Yoga & Breathwork Camp",
+      "category": "Sports",
+      "description": "Recharge your mind and body with sunrise Vinyasa flow, guided pranayama breathwork, and sound bath meditation. Suitable for all fitness levels. Organic herbal teas and mats provided.",
+      "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&w=1200&q=80",
+      "date": "2026-11-29",
+      "time": "06:30 AM",
+      "venue": "Ocean View Botanical Gardens, San Diego, CA",
+      "organizer": "Prana Wellness Collective",
+      "totalSeats": 60,
+      "seatsLeft": 14,
+      "price": 0,
+      "createdAt": "2026-10-29T10:09:46.801Z"
+    },
+    {
+      "_id": "e19ec7a6512a48ac4fa2e103",
+      "title": "Inter-City Smash Badminton Championship",
+      "category": "Sports",
+      "description": "Annual amateur and semi-pro badminton showdown. Men's & Women's singles and doubles tournament with official BWF scoring, live streaming, trophies, and athletic gear hampers.",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=1200&q=80",
+      "date": "2026-12-05",
+      "time": "08:30 AM",
+      "venue": "Olympus Indoor Arena, Chicago, IL",
+      "organizer": "Midwest Racquet Club",
+      "totalSeats": 100,
+      "seatsLeft": 22,
+      "price": 30,
+      "createdAt": "2026-10-29T10:09:46.801Z"
+    },
+    {
+      "_id": "0a4122a0adfe5dfa66a3c42c",
+      "title": "Full-Stack Design Systems Masterclass",
+      "category": "Workshops",
+      "description": "From Figma tokens to reusable Tailwind & React component libraries. Deep dive into accessible components, compound components, token synchronization, and micro-interactions.",
+      "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=1200&q=80",
+      "date": "2026-12-10",
+      "time": "02:00 PM",
+      "venue": "Digital Arts Academy, Denver, CO",
+      "organizer": "UI/UX Collective",
+      "totalSeats": 50,
+      "seatsLeft": 11,
+      "price": 40,
+      "createdAt": "2026-10-29T10:09:46.801Z"
+    }
+  ],
+  "registrations": [
+    {
+      "_id": "feac446bfadf741edb39389c",
+      "userId": "751d3506d576dad9117a1a28",
+      "eventId": "c68bb89737f9a8c95253a72a",
+      "registrationId": "REG-2026-3Q78X",
+      "status": "cancelled",
+      "createdAt": "2026-10-29T10:20:42.995Z"
+    },
+    {
+      "_id": "59eee353e1e2df1206f83d91",
+      "userId": "7862807b43c171b7268d2421",
+      "eventId": "9398ffa423f9ec5c28c62011",
+      "registrationId": "REG-2026-6WTK6",
+      "status": "registered",
+      "createdAt": "2026-10-29T10:23:47.439Z"
+    }
+  ]
+}
